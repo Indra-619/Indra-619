@@ -66,3 +66,8 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indra-619&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
 </div>
+
+<br>
+<div align="center">
+  <p>🎨 Profile layout inspired by <a href="https://github.com/bimakw">@bimakw</a></p>
+</div>
