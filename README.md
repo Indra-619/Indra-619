@@ -55,8 +55,9 @@ I am a **DevOps & Cloud Administrator** with over **6 years of experience** cont
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Indra-619&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Indra-619's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indra-619&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Indra-619's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Indra-619&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="Indra-619 Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indra-619&theme=tokyonight&hide_border=true&background=0d1117" height="180" alt="Indra-619 Streak" />
 </div>
 
 <br>
