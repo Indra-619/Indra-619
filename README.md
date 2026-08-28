@@ -43,6 +43,14 @@ I am a **DevOps & Cloud Administrator** with **1.5 years of experience** and a *
 
 ---
 
+### 🎯 Currently Working On
+
+- Enhancing **Web DBA Platform** with new features and optimizations
+- Learning **Go advanced patterns** and microservices architecture
+- Exploring **GCP advanced services** for better infrastructure management
+
+---
+
 ### 🛠️ Tech Stack
 
 | Category | Tools & Languages |
@@ -69,8 +77,28 @@ I am a **DevOps & Cloud Administrator** with **1.5 years of experience** and a *
 
 ### 📊 GitHub Statistics
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Indra-619&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Indra-619&theme=tokyonight&hide_border=true&background=0d1117)
+
+</div>
+
+### 🏆 GitHub Trophy
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Indra-619&theme=radical&no-frame=false&no-bg=true&margin-w=15)
+
+</div>
+
+### 📈 Top Languages
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indra-619&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117)
+
+</div>
 
 ---
 
