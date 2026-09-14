@@ -80,7 +80,7 @@ I am a **Cloud & DevOps Engineer** transitioning from a 6-year background in Fro
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Indra-619&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Indra-619&theme=tokyonight&hide_border=true&background=0d1117)
-![Profile Views](https://komarev.com/ghprofile/?username=Indra-619&style=flat-square&color=6366f1&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Indra-619&style=flat-square&color=6366f1&label=Profile+Views)
 
 </div>
 
